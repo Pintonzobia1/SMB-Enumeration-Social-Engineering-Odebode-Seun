@@ -1,4 +1,5 @@
 Penetration Testing Guides: SMB Enumeration and Social Engineering
+
 Overview
 This repository contains educational guides on penetration testing techniques, focusing on SMB enumeration and social engineering via website cloning. These documents are for learning purposes in controlled environments, such as labs with Metasploitable 2 VMs. Always adhere to ethical guidelines and legal restrictions.
 
